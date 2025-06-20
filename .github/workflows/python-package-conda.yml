@@ -18,4 +18,5 @@ jobs:
       run: |
         pip install langchain-openai
         python review.py
+        ls -ltr
         cat review.txt
