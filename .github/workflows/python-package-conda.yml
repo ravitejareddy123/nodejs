@@ -19,4 +19,4 @@ jobs:
         pip install langchain-openai
         python review.py
         ls -ltr
-        cat review.txt
+        cat review.html
