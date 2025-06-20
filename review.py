@@ -6,7 +6,7 @@ client = AzureChatOpenAI(
     model="gpt-4o",
     deployment_name="gpt-4o",
     openai_api_version="2025-01-01-preview",
-    azure_endpoint="https://labs-ai-proxy.acloud.guru",
+    azure_endpoint="https://labs-ai-proxy.acloud.guru/",
     openai_api_key="8793258c-35bc-4de5-937f-f44da8334174",
     temperature=0.0,
 )
