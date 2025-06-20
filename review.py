@@ -54,4 +54,4 @@ def process_files_in_directory(directory, review_file="review.txt"):
 
 directory = os.path.join(os.getcwd(), "app")
 # Call the function to process files
-process_files_in_directory(directory
+process_files_in_directory(directory)
