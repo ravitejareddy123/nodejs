@@ -17,5 +17,5 @@ jobs:
     - name: Add conda to system path
       run: |
         pip install langchain-openai
-        python code_review.py
+        python review.py
         cat review.txt
